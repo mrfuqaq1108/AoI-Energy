@@ -20,8 +20,8 @@ refer to https://github.com/mrfuqaq1108/TAoII-Image-Transmission
 
 ## simulation results
 - **compare_Task.py**: FIGURE 6, task performance comparision under different schemes, q1=0.8, q2=0.2.
-- **compare_PAoI.py**: FIGURE 7, PAoI performance comparision under different schemes, q1=0.8, q2=0.2.
-- **compare_Energy.py**: FIGURE 8, energy consumption performance comparision under different schemes, q1=0.8, q2=0.2.
+- **compare_PAoI.py**: FIGURE 7, PAoI performance comparision under different schemes, q1=0.99, q2=0.01.
+- **compare_Energy.py**: FIGURE 8, energy consumption performance comparision under different schemes, q1=0.01, q2=0.99.
 - **compare_different_M.py**: FIGURE 9, average task value with different number of cameras under different schemes, q1 = 0.8, q2 = 0.2.
 - **diff_f.py**: FIGURE 10, average task value with different average CPU frequency of cameras under different schemes, q1 = 0.8, q2 = 0.2.
 - **diff_C_delta.py**: FIGURE 11, Average task value with different required number of CPU cycles for image under different schemes, q1 = 0.8, q2 = 0.2.
