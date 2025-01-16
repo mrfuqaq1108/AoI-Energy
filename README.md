@@ -1,6 +1,5 @@
 # Related Paper
-- Baojie Fu, Dapeng Wu and Ruyan Wang, Analysis on Resource Allocation in Image
-Surveillance System
+- Baojie Fu, Dapeng Wu and Ruyan Wang, AoI-Energy-Aware Resource Allocation for Image Recognition in MEC Networks
 
 ***Any use of the codes should explicitly cite the aforementioned paper.***
 
